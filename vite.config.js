@@ -6,5 +6,5 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   plugins: [react()],
   plugins: [tailwindcss()],
-  base: "https://cleliepradeau.github.io/react",
+  base: "https://cleliepradeau.github.io/react/",
 });
